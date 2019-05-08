@@ -1,0 +1,6 @@
+﻿  address.cpp
+d:\workspace\c_learn\cpp_repos\address\address\address.cpp(9): warning C4311: '<function-style-cast>': pointer truncation from 'int *' to 'unsigned int'
+d:\workspace\c_learn\cpp_repos\address\address\address.cpp(9): warning C4302: '<function-style-cast>': truncation from 'int *' to 'unsigned int'
+d:\workspace\c_learn\cpp_repos\address\address\address.cpp(11): warning C4311: '<function-style-cast>': pointer truncation from 'double *' to 'unsigned int'
+d:\workspace\c_learn\cpp_repos\address\address\address.cpp(11): warning C4302: '<function-style-cast>': truncation from 'double *' to 'unsigned int'
+  address.vcxproj -> D:\WorkSpace\C_learn\Cpp_repos\address\x64\Debug\address.exe

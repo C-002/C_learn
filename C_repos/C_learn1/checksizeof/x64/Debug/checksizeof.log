@@ -1,0 +1,13 @@
+﻿  checksizeof.c
+d:\workspace\c_learn\c_repos\c_learn1\checksizeof\checksizeof.c(6): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'size_t'
+  d:\workspace\c_learn\c_repos\c_learn1\checksizeof\checksizeof.c(6): note: consider using '%zd' in the format string
+d:\workspace\c_learn\c_repos\c_learn1\checksizeof\checksizeof.c(7): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'size_t'
+  d:\workspace\c_learn\c_repos\c_learn1\checksizeof\checksizeof.c(7): note: consider using '%zd' in the format string
+d:\workspace\c_learn\c_repos\c_learn1\checksizeof\checksizeof.c(8): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'size_t'
+  d:\workspace\c_learn\c_repos\c_learn1\checksizeof\checksizeof.c(8): note: consider using '%zd' in the format string
+d:\workspace\c_learn\c_repos\c_learn1\checksizeof\checksizeof.c(9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'size_t'
+  d:\workspace\c_learn\c_repos\c_learn1\checksizeof\checksizeof.c(9): note: consider using '%zd' in the format string
+d:\workspace\c_learn\c_repos\c_learn1\checksizeof\checksizeof.c(10): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'size_t'
+  d:\workspace\c_learn\c_repos\c_learn1\checksizeof\checksizeof.c(10): note: consider using '%zd' in the format string
+d:\workspace\c_learn\c_repos\c_learn1\checksizeof\checksizeof.c(14): warning C4311: 'type cast': pointer truncation from 'double *' to 'int'
+  checksizeof.vcxproj -> D:\WorkSpace\C_learn\C_repos\C_learn1\x64\Debug\checksizeof.exe

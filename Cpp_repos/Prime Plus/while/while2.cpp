@@ -14,6 +14,7 @@ int main()
         cout << name[i] << ": " << int(name[i]) << endl;
         i++;
     }
+    cout << name[i-2] << endl;
 
     return 0;
 }
